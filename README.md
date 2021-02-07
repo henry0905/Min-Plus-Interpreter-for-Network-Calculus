@@ -1,5 +1,6 @@
 # Min Plus Interpreter for Network Calculus
-UAF (Ultimately affine function)
+
+## UAF (Ultimately affine function)
 This program aims to interpret the Ultimately affine function in Network Calculus to the Graphic latex function. 
 uaf(SEGMENT+) includes many segments that are defined from point to point, with the last segment having a slope and right point.
 
