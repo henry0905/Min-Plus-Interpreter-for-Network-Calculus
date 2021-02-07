@@ -1,4 +1,4 @@
-# Stage-RTAW
+# Min Plus Interpreter for Network Calculus
 UAF (Ultimately affine function)
 This program aims to interpret the Ultimately affine function in Network Calculus to the Graphic latex function. 
 uaf(SEGMENT+) includes many segments that are defined from point to point, with the last segment having a slope and right point.
@@ -11,3 +11,5 @@ There are 3 segments in this function:
 The figure is in the folder "Stage-RTAW" named "Picture 1".
 
 This is a part of my internship so I only show one function.
+To find out more, you can visit the link here:
+https://www.realtimeatwork.com/minplus-playground
